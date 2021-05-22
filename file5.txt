@@ -1,0 +1,2 @@
+this is file5.txt created once again in working directory.
+This is file5.txt used to stash not commit.
